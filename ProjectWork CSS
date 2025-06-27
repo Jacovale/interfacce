@@ -1,0 +1,77 @@
+/* NAVBAR */
+.navbar {
+    background-color: #e6f2ec;
+    border-bottom: 1px solid #50e797;
+}
+
+body {
+    background-color: #f5f9f6;
+    color: #2f4033;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* HEADER */
+header {
+    color: greenyellow;
+    position: relative;
+    padding: 2rem 0;
+    text-align: center;
+    background-image: url(/img/ast.jpg);
+}
+
+header p {
+    text-align: center;
+}
+
+/* SEZIONE DELLA SOSTENIBILITA' */
+.sostenibilità {
+    padding: 2rem;
+    margin-top: 10px;
+    background-color: lightgray;
+    border-radius: 12px;
+    max-width: max-content;
+    box-shadow: 0 4px 10px;
+}
+
+.sostenibilità h2 {
+    margin-bottom: 2rem;
+}
+
+/* SEZIONE DEI REPORT */
+.container p {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.sostenibilità2024 {
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;      
+}
+
+.blocchi {
+    margin-top: 2rem;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.blocco {
+    padding: 5px;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+}
+
+.box {
+    padding-bottom: 20px;
+    padding-top: 30px;
+}
